@@ -27,7 +27,7 @@ Contributions are welcome! If you'd like to enhance the project or fix any issue
 
 ## Get in Touch
 
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to me via [email](mailto:adityap.works@gmail.com).
+If you have any questions, suggestions, or just want to say hi, feel free to reach out to me via [adityap.works@gmail.com](mailto:adityap.works@gmail.com).
 
 Happy clock watching! ⏰
 
