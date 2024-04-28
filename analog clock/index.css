@@ -1,0 +1,54 @@
+#head{
+    font-family: "Jersey 25", sans-serif;
+    text-align: center;
+    font-size: larger;
+}
+
+#clock_container{
+    position: relative;
+    height: 40vw;
+    width: 40vw;
+    background: url(./clock2.png);
+    background-repeat:no-repeat;
+    background-size: 100%;
+    margin: auto;
+}
+
+#hour_hand {
+    position: absolute;
+    border-radius: 10px;
+    width: 1.5%;
+    height: 20%;
+    background-color: black;
+    left: 49.55%;
+    top: 29%;
+    /* opacity: 100%; */
+    transform-origin: bottom;
+    /* display: none; */
+}
+
+#minute_hand {
+    position: absolute;
+    border-radius: 10px;
+    width: 1.1%;
+    height: 27%;
+    background-color: black;
+    left: 49.7%;
+    top: 22%;
+    /* opacity: 50%; */
+    transform-origin: bottom;
+    /* display: none; */
+}
+
+#second_hand{
+    position: absolute;
+    border-radius: 10px;
+    width: 0.9%;
+    height: 33%;
+    background-color: black;
+    left: 49.89%;
+    top: 16%;
+    /* opacity: 25%; */
+    transform-origin: bottom;
+    /* display:none; */
+}
