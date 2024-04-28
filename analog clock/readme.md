@@ -1,4 +1,4 @@
-This is an analog clock
+This is an analog clock<br><br>
 formulae used:
 1) To find rotation of the hour hand in degree:
 (30*h + m/2) 
