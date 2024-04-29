@@ -1,6 +1,6 @@
 # Analog Clock
 
-Welcome to my simple analog clock project! This project demonstrates a classic analog clock created using HTML, CSS, and JavaScript. Check out the live demo [here](https://your-live-demo-url.com).
+Welcome to my simple analog clock project! This project demonstrates a classic analog clock created using HTML, CSS, and JavaScript. Check out the live demo [here](https://miss-minutes-clock.netlify.app/).
 
 ## Features
 
